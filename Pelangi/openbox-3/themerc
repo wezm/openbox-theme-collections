@@ -40,7 +40,7 @@ window.inactive.title.bg.color: #9b78cc
 window.inactive.title.bg.colorTo: #8be9fd
 
 !! Titlebar text
-window.label.text.justify: center
+window.label.text.justify: left
 window.active.label.bg: parentrelative
 window.active.label.text.color: #2f343f
 window.inactive.label.bg: parentrelative
@@ -71,7 +71,7 @@ window.active.border.color: #2f343f
 window.inactive.border.color: #2f343f
 border.width: 0
 padding.width: 2
-padding.height: 0
+padding.height: 5
 window.handle.width: 0
 window.active.client.color:  #2f343f
 window.inactive.client.color:  #2f343f
